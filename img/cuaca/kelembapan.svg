@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Water</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M51.9 40.1a20.6 20.6 0 0 0-1-4.9C46.9 20.8 32 2 32 2S17.1 20.8 13 35.2a20.6 20.6 0 0 0-1 4.9c0 .5-.1 1-.1 1.5A20.2 20.2 0 0 0 32 62a20.2 20.2 0 0 0 20-20.4c0-.5 0-1-.1-1.5z"
+  fill="#cdebf2"></path>
+  <path data-name="opacity" d="M37 53a20.2 20.2 0 0 1-20-20.4c0-.5 0-1 .1-1.5a20.6 20.6 0 0 1 1-4.9 57.3 57.3 0 0 1 3.7-9.4c-3.6 5.8-7.1 12.5-8.7 18.4a20.6 20.6 0 0 0-1 4.9c0 .5-.1 1-.1 1.5A20.2 20.2 0 0 0 32 62a20.1 20.1 0 0 0 19.3-15.2A19.7 19.7 0 0 1 37 53z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer1" d="M46 40a7 7 0 0 1-14 0c0-3.9 3.1-12 7-12s7 8.1 7 12z"
+  fill="#fff"></path>
+  <path data-name="stroke" d="M51.9 40.1a20.6 20.6 0 0 0-1-4.9C46.9 20.8 32 2 32 2S17.1 20.8 13 35.2a20.6 20.6 0 0 0-1 4.9c0 .5-.1 1-.1 1.5A20.2 20.2 0 0 0 32 62a20.2 20.2 0 0 0 20-20.4c0-.5 0-1-.1-1.5z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

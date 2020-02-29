@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Night Heavy Rain</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M46.8 38A10.1 10.1 0 0 0 57 28.1a10.1 10.1 0 0 0-10.2-9.9h-1A13.6 13.6 0 0 0 33.1 10a13.5 13.5 0 0 0-13.5 11.5h-.1a8.2 8.2 0 1 0 0 16.5z"
+  fill="#cdf0f0"></path>
+  <path data-name="opacity" d="M19 24a14 14 0 0 1 .2-2.5 8.2 8.2 0 1 0 .3 16.5H33a14 14 0 0 1-14-14z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="opacity" d="M57 28.6v-.5a10.1 10.1 0 0 0-10.2-9.8h-1v-.2A14 14 0 0 0 33.1 10a13.8 13.8 0 0 0-9.2 3.5 16.8 16.8 0 0 1 17.6 6.2 10.1 10.1 0 0 0-1.8 1.5L42 21a13 13 0 0 1 13 13h.1a9.9 9.9 0 0 0 1.9-5z"
+  fill="#fff" opacity=".5"></path>
+  <path data-name="layer1" d="M19.6 21.5A13.2 13.2 0 0 1 27 11.4 10 10 0 0 0 17 2h-.7a6.9 6.9 0 0 1 .6 3 7 7 0 0 1-7 7 6.9 6.9 0 0 1-2.8-.6c0 .2-.1.4-.1.6a10 10 0 0 0 9.7 10 8.7 8.7 0 0 1 2.8-.5z"
+  fill="#e6f0fa"></path>
+  <path data-name="opacity" d="M16.7 22a8.7 8.7 0 0 1 2.8-.5h.1A13.2 13.2 0 0 1 27 11.4a9.9 9.9 0 0 0-.4-2.3 13.4 13.4 0 0 0-12 11.4h-.1a8.8 8.8 0 0 0-2.2.3 9.9 9.9 0 0 0 4.4 1.2z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M17.2 46l-6.4 8m16.4-8L14.4 62m22.8-16l-6.4 8m16.4-8L34.4 62m12.4-24A10.1 10.1 0 0 0 57 28.1a10.1 10.1 0 0 0-10.2-9.9h-1A13.6 13.6 0 0 0 33.1 10a13.5 13.5 0 0 0-13.5 11.5h-.1a8.2 8.2 0 1 0 0 16.5z"></path>
+  <path data-name="stroke" d="M27 11.4A10 10 0 0 0 17 2h-.7a6.9 6.9 0 0 1 .6 3 7 7 0 0 1-9.8 6.4c0 .2-.1.4-.1.6a10 10 0 0 0 9.7 10"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

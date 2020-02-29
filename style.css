@@ -1,0 +1,179 @@
+/*
+	Prakiraan Cuaca Kecamatan Indonesia - BMKG
+	Copyright 2020 — Handcode by Raksaka Indra
+ */
+
+#container {
+  padding-left: 300px;
+}
+
+/* Header & Navigasi */
+.head, .head-menu, .footer-menu {
+	background: #1d1e22;
+	color: #fff;
+}
+.head-menu {
+	font-size: 16px;
+	font-weight: 500;
+	padding: 10px;
+	text-align: center;
+}
+.head {
+	padding: 20px;
+	position: absolute;
+	z-index: 2;
+	width: 100%;
+	display: none;
+}
+.head a {
+	position: absolute;
+	top: 30px;
+}
+.head h1 {
+	font-size: 28px;
+	font-weight: 700;
+	text-align: center;
+	margin: 0;
+	line-height: 16px;
+}
+.logo {
+	background-image: url('img/logo-bmkg-white.svg');
+	background-repeat: no-repeat;
+	background-size: 36px auto;
+	background-position: center center;
+	width: 40px;
+	height: 50px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 15px;
+}
+.logo.little {
+	background-size: 28px auto;
+	width: 30px;
+	height: 40px;
+	margin-right: 8px;
+}
+.side-nav a {
+	padding: 0 12px;
+	height: inherit;
+	position: relative;
+}
+.side-nav a:focus {
+    background-color: rgba(0,0,0,0.05);
+}
+.side-nav li {
+	border-bottom: 1px solid #eee;
+}
+.side-nav li a img {
+	width: 25px;
+	height: auto;
+	vertical-align: middle;
+}
+.side-nav li .side {
+	font-size: 18px;
+    font-weight: 500;
+    margin-left: 10px;
+    color: #359b0a;
+}
+.footer-menu {
+	font-size: 14px;
+	padding: 5px 10px;
+	line-height: 32px !important;
+	text-align: center;
+}
+
+/* Peta Leaflet */
+#content {
+	position: relative;
+}
+#map {
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+.leaflet-popup-content {
+	text-align: center;
+}
+.leaflet-control-container {
+	display: none;
+}
+
+/* Cuaca */
+.headline-prakicu {
+	background: #1d1e22;
+	color: #fff;
+	font-size: 12px;
+	padding: 5px 10px;
+	border-radius: 10px;
+	display: inline-block;
+	position: absolute;
+	text-align: center;
+	z-index: 100;
+	width: 240px;
+    left: calc(50% - 120px);
+    top: 0;
+}
+.cuaca-detail {
+	background: #fff;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+	position: absolute;
+	border-radius: 10px;
+	width: calc(100% - 40px);
+	margin: 20px;
+	padding: 20px !important;
+	z-index: 200;
+	bottom: 0;
+	overflow: auto;
+	display: none;
+}
+.cuaca-detail li {
+	width: 180px;
+	float: left;
+	padding: 0 20px;
+	text-align: center;
+	border-right: 1px solid #ddd;
+}
+.cuaca-detail li:first-child {
+	padding-left: 0;
+}
+.cuaca-detail li:last-child {
+	padding-right: 0;
+	border-right: none;
+}
+.cuaca-detail img {
+	width: 48px;
+	height: 48px;
+	display: block;
+	margin: 5px auto;
+}
+.cuaca-detail span {
+	display: block;
+}
+.cuaca-detail span img {
+	height: 20px;
+	width: auto;
+	display: inline-block;
+    margin: 0 3px;
+    vertical-align: middle;
+}
+.cuaca-detail .tanggal {
+	font-size: 12px;
+	font-weight: 700;
+	text-align: center;
+}
+
+/* Media Queries */
+@media only screen and (max-width : 992px) {
+	#container {
+		padding-left: 0px;
+	}
+	.head {
+		display: block;
+	}
+
+}
+@media only screen and (max-width : 576px) {
+	.head h1 {
+		font-size: 22px;
+	}
+}

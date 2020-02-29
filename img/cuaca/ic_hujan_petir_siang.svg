@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Thunderstorm Rain</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M49 12h-.5a17 17 0 0 0-32.3 4.4A11 11 0 1 0 13 38h36a13 13 0 0 0 0-26z"
+  fill="#cdf0f0"></path>
+  <path data-name="opacity" d="M16 20a18.1 18.1 0 0 1 .3-3.5h-.2A11 11 0 1 0 13 38h21a18 18 0 0 1-18-18z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="opacity" d="M62 25a13 13 0 0 0-13-13h-.5a17 17 0 0 0-12.3-9.7L35 2.1h-2l-3.2.3a16.9 16.9 0 0 0-8.3 4.2A22.9 22.9 0 0 1 43 13.5a13.1 13.1 0 0 0-4.2 3.4 14.9 14.9 0 0 1 20 16.6A12.9 12.9 0 0 0 62 25z"
+  fill="#fff" opacity=".5"></path>
+  <path data-name="layer1" fill="#ff6" d="M36.7 25L22 41h7.5l-3.3 14L42 38h-7.4l2.1-13z"></path>
+  <path data-name="stroke" d="M42 38h7a13 13 0 1 0 0-26h-.5a17 17 0 0 0-32.3 4.4A11 11 0 1 0 13 38h11.8M6 58.5L3.2 62M16 46l-5.9 7.4m31.9.1L35.2 62M48 46l-1.6 2"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M36.7 25L22 41h7.5l-3.3 14L42 38h-7.4l2.1-13z"></path>
+</svg>

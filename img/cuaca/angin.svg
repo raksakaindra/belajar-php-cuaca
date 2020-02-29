@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Windsock</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M34.6 7.2A31.4 31.4 0 0 0 26 3.3v28.1A163.9 163.9 0 0 0 44 29V13.2c-2.8-1.7-5.9-3.7-9.4-6z"
+  fill="#f5f9fd"></path>
+  <path data-name="layer1" d="M10 2v30c6 0 11.3-.2 16-.6V3.3C19.5 1.5 13.6 2 10 2zm48 16c-4.8 0-9-1.8-14-4.8V29c5.8-1.1 10.3-2.3 14-3s4-2.9 4-4a3.8 3.8 0 0 0-4-4z"
+  fill="#ff7843"></path>
+  <path data-name="opacity" d="M26 31.4A163.9 163.9 0 0 0 44 29c5.8-1.1 10.3-2.3 14-3s4-2.9 4-4a4.8 4.8 0 0 0-.4-1.8c1.2 3.1-9.8.9-13.6 1.8-13.9 2.6-28.5.7-38 .1V32c6 0 11.3-.2 16-.6z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M26 3.4v28m18-18.2V29M2 62h16m-8 0V2C15.2 2 24.8.9 34.6 7.2S50.4 18 58 18a3.8 3.8 0 0 1 4 4c0 1.1-.3 3.4-4 4-8.8 1.7-22.2 6-48 6"></path>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Fog</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M59.9 38A13 13 0 0 0 49 18h-.5a17 17 0 0 0-32.3 4.4A11 11 0 0 0 3.2 38z"
+  fill="#cdf0f0"></path>
+  <path data-name="opacity" d="M20.6 38a17.9 17.9 0 0 1-4.3-15.5h-.2A11 11 0 0 0 3.2 38z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="opacity" d="M43 19.5a13.1 13.1 0 0 0-4.2 3.4A15 15 0 0 1 59 37v1h1a13 13 0 0 0-11-20h-.5a17 17 0 0 0-12.3-9.7L35 8.1h-2l-3.2.3a16.9 16.9 0 0 0-8.3 4.2A22.9 22.9 0 0 1 43 19.5z"
+  fill="#fff" opacity=".5"></path>
+  <path data-name="stroke" d="M62 31a13 13 0 0 0-13-13h-.5a17 17 0 0 0-32.3 4.4A11 11 0 0 0 2 32m0 6h60M8 46h50m-46 8h16m8 0h20"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

@@ -1,0 +1,15 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Heavy Rain</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path fill="#cdf0f0"
+  d="M49 12c-.168 0-.332.019-.5.025a16.98 16.98 0 0 0-32.293 4.448A11 11 0 1 0 13 38h36a13 13 0 0 0 0-26z"
+  data-name="layer1"></path>
+  <path opacity=".1" fill="#000064" d="M16 20a18.053 18.053 0 0 1 .342-3.483l-.16-.047A11 11 0 1 0 13 38h21a18 18 0 0 1-18-18z"
+  data-name="opacity"></path>
+  <path opacity=".5" fill="#fff" d="M62 25a13 13 0 0 0-13-13c-.168 0-.331.022-.5.029A17.014 17.014 0 0 0 36.169 2.3a18.205 18.205 0 0 0-1.176-.18l-.254-.028A16.94 16.94 0 0 0 33 2a17.959 17.959 0 0 0-3.172.288 16.887 16.887 0 0 0-8.258 4.151 22.882 22.882 0 0 1 21.4 7.06 13.089 13.089 0 0 0-4.161 3.441 14.937 14.937 0 0 1 19.957 16.622A12.935 12.935 0 0 0 62 25z"
+  data-name="opacity"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M49 12.015c-.168 0-.33.02-.5.025a16.98 16.98 0 0 0-32.293 4.447A11 11 0 1 0 13 38.011h36a13 13 0 1 0 0-26zM11.998 46l-6.404 8.001M23.998 46L11.19 61.997M36 46l-6.404 8.001M48 46L35.191 61.997"
+  data-name="stroke"></path>
+</svg>
