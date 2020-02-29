@@ -1,5 +1,6 @@
 <?php
   include_once("config.php");
+  // Silakan diganti untuk Kabupaten atau Kota dengan mengacu pada API: http://localhost/cuaca/api.php?provinsi=Jawa%20Tengah
   $urlKec = "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'] . "api.php?kabkota=Kab.%20Wonogiri";
   $kec = simplexml_load_file($urlKec) or die("");
 
